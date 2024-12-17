@@ -1,0 +1,72 @@
+[
+    {
+    "name":"alphonso mango",
+    "desc":"great Quality of Mango",
+    "type":"fruits",
+    "banner":"https://aliveplant.com/wp-content/uploads/2021/09/aphonso.jpeg",
+    "unit":1,
+    "price":300, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Apples",
+    "desc":"great Quality of Apple",
+    "type":"fruits",
+    "banner":"https://media.istockphoto.com/id/183422512/photo/fresh-red-apples-on-white-background.jpg?s=612x612&w=0&k=20&c=OmfmcQLh3mwp4pFVQn9Sr2U8VCyIgGtV6fuaDmd3Yrk=",
+    "unit":1,
+    "price":140, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Kesar Mango",
+    "desc":"great Quality of Mango",
+    "type":"fruits",
+    "banner":"https://4.imimg.com/data4/KB/UQ/MY-2/fresh-kesar-mango-500x500.jpg",
+    "unit":1,
+    "price":170, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Langra Mango",
+    "desc":"great Quality of Mango",
+    "type":"fruits",
+    "banner":"http://codergogoi.com/youtube/images/langra.jpeg",
+    "unit":1,
+    "price":280, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Broccoli",
+    "desc":"great Quality of Fresh Vegetable",
+    "type":"vegetables",
+    "banner":"https://t3.ftcdn.net/jpg/01/11/81/88/360_F_111818896_ujZFrfj9AADds35krQnpiAevtyEP3Tko.jpg",
+    "unit":1,
+    "price":280, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Cauliflower",
+    "desc":"great Quality of Fresh Vegetable",
+    "type":"vegetables",
+    "banner":"https://media.istockphoto.com/id/90634594/photo/close-up-of-several-heads-of-cauliflower.jpg?s=612x612&w=0&k=20&c=hpYY7BqSUNwM-oq26wNv5pGLSPf4HijXr3zA0J3yd0E=",
+    "unit":1,
+    "price":280, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Olive Oil",
+    "desc":"great Quality of Oil",
+    "type":"oils",
+    "banner":"https://cdn.pixabay.com/photo/2023/10/12/17/06/ai-generated-8311314_640.png",
+    "unit":1,
+    "price":400, 
+    "available":true,
+    "suplier":"Golden seed firming"
+}
+]

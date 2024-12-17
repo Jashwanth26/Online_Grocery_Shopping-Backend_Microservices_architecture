@@ -1,0 +1,72 @@
+[
+    {
+    "name":"alphonso mango",
+    "desc":"great Quality of Mango",
+    "type":"fruits",
+    "banner":"https://5.imimg.com/data5/JO/RI/MY-58646205/ratna-alphonso-mango-500x500.jpg",
+    "unit":1,
+    "price":300, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Apples",
+    "desc":"great Quality of Apple",
+    "type":"fruits",
+    "banner":"https://w0.peakpx.com/wallpaper/160/130/HD-wallpaper-apples-fruit-ripe-red-apples-fresh-fruit-apple.jpg",
+    "unit":1,
+    "price":140, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Kesar Mango",
+    "desc":"great Quality of Mango",
+    "type":"fruits",
+    "banner":"https://vinaag.com/wp-content/uploads/2024/06/images-1-31.jpeg",
+    "unit":1,
+    "price":170, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Langra Mango",
+    "desc":"great Quality of Mango",
+    "type":"fruits",
+    "banner":"https://media.istockphoto.com/id/502039175/photo/mango-4.jpg?s=612x612&w=0&k=20&c=WytgpMcQ2O1nEdIAyBSZ3-wOMZs0FT932ciD5Hrvgk8=",
+    "unit":1,
+    "price":280, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Broccoli",
+    "desc":"great Quality of Fresh Vegetable",
+    "type":"vegetables",
+    "banner":"http://codergogoi.com/youtube/images/broccoli.jpeg",
+    "unit":1,
+    "price":280, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Cauliflower",
+    "desc":"great Quality of Fresh Vegetable",
+    "type":"vegetables",
+    "banner":"http://codergogoi.com/youtube/images/cauliflower.jpeg",
+    "unit":1,
+    "price":280, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Olive Oil",
+    "desc":"great Quality of Oil",
+    "type":"oils",
+    "banner":"http://codergogoi.com/youtube/images/oliveoil.jpg",
+    "unit":1,
+    "price":400, 
+    "available":true,
+    "suplier":"Golden seed firming"
+}
+]
